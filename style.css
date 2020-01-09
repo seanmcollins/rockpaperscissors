@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+.center #play {
+}
+
+#body {
+    background-color: lightgrey;
+}
+
+#entry {
+    width: 50px;
+}
+
+#result {
+    text-align: center;
+    margin-top: 20px;
+}
